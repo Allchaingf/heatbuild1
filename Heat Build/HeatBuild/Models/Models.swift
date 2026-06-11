@@ -114,7 +114,7 @@ struct Record: Identifiable, Codable {
     var status: RecordStatus
     var createdAt: Date = Date()
 
-    enum RecordCategory: String, Codable, CaseIterable {
+    enum RecordCategory: String, Codable, Hashable, CaseIterable {
         case temperature = "Temperature"
         case humidity = "Humidity"
         case draft = "Draft"

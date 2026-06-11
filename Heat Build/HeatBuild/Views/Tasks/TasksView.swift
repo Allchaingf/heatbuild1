@@ -247,7 +247,7 @@ struct TaskDetailView: View {
                         Label(task.isCompleted ? "Mark as Open" : "Mark as Done", systemImage: task.isCompleted ? "circle" : "checkmark.circle.fill")
                             .frame(maxWidth: .infinity)
                     }
-                    .buttonStyle(task.isCompleted ? SecondaryButtonStyle() : PrimaryButtonStyle())
+                    .buttonStyle(PrimaryButtonStyle())
 
                     Button { showEdit = true } label: {
                         Label("Edit Task", systemImage: "pencil").frame(maxWidth: .infinity)

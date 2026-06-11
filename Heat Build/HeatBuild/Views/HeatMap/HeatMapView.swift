@@ -108,7 +108,7 @@ struct HeatMapView: View {
                         Label(mapBuilt ? "Hide Map" : "Build Map", systemImage: "map.fill")
                             .frame(maxWidth: .infinity)
                     }
-                    .buttonStyle(mapBuilt ? SecondaryButtonStyle() : PrimaryButtonStyle())
+                    .buttonStyle(PrimaryButtonStyle())
 
                     Button { showAddPoint = true } label: {
                         Label("Add Point", systemImage: "plus.circle.fill")
