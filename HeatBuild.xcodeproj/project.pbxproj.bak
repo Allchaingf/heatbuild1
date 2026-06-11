@@ -52,10 +52,10 @@
 		3A5704E32FC4DF7700823163 /* RoomsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomsView.swift; sourceTree = "<group>"; };
 		3A5704E52FC4DF7700823163 /* LaunchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
 		3A5704E62FC4DF7700823163 /* OnboardingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
-		3A5704FE2FC5B95D00823163 /* TasksView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TasksView.swift; path = TasksView.swift; sourceTree = "<group>"; };
-		3A5705002FC5B98A00823163 /* ReportsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ReportsView.swift; path = ReportsView.swift; sourceTree = "<group>"; };
-		3A5705022FC5B9AF00823163 /* DesignSystem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DesignSystem.swift; path = DesignSystem.swift; sourceTree = "<group>"; };
-		3A5705042FC5BCED00823163 /* HeatMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HeatMapView.swift; path = HeatMapView.swift; sourceTree = "<group>"; };
+		3A5704FE2FC5B95D00823163 /* TasksView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TasksView.swift; path = "../../../../../../Downloads/HeatBuild (1)/HeatBuild_fix/HeatBuild/Views/Tasks/TasksView.swift"; sourceTree = "<group>"; };
+		3A5705002FC5B98A00823163 /* ReportsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ReportsView.swift; path = "../../../../../../Downloads/HeatBuild (1)/HeatBuild_fix/HeatBuild/Views/Reports/ReportsView.swift"; sourceTree = "<group>"; };
+		3A5705022FC5B9AF00823163 /* DesignSystem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DesignSystem.swift; path = "../../../../../Downloads/HeatBuild (1)/HeatBuild_fix/HeatBuild/Utils/DesignSystem.swift"; sourceTree = "<group>"; };
+		3A5705042FC5BCED00823163 /* HeatMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HeatMapView.swift; path = "../../../../../../Downloads/HeatBuild (1)/HeatBuild_fix/HeatBuild/Views/HeatMap/HeatMapView.swift"; sourceTree = "<group>"; };
 		3A60ADF82FDAA41F00B93705 /* codemagic.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = codemagic.yaml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
