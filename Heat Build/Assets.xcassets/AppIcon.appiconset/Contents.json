@@ -26,11 +26,13 @@
       "size" : "40x40"
     },
     {
+      "filename" : "Icon_ios_white (3) (1) (1)-1.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "Icon_ios_white (3) (1) (1).png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
@@ -71,6 +73,12 @@
       "size" : "40x40"
     },
     {
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "Icon_ios_white (3) (1).png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "76x76"
@@ -81,6 +89,7 @@
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "Icon_ios_white (3).png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
